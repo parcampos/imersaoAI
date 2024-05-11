@@ -1,7 +1,7 @@
 # imersaoAI
 Projeto para a Imersão Google + Alura
 
-Projeto criado com o propósito de axuliar professores da escola Técnica ETEC. Na ETEC temos um sistema de Gestão Escolar chamado NSA, sesse sistemas lançamos aulas, chamadas, trabalhos etc. O problema é que quando um professor novo entra ele se confunde muito ao utilizar o sistema e outros professores muitas vezes não tem disponibilidade para explicar o uso. O software não possui uma interface muito amigável, então a ideia foi criar uma espécie de BOT contendo uma FAQ dos prcedimentos mais comuns relacionados ao sistema e ai receber a dúvida do professor e oferecer uma solução baseada na análise dos textos cadastrados com os procedimentos.
+Projeto criado com o propósito de axuliar professores da escola Técnica ETEC. Na ETEC temos um sistema de Gestão Escolar chamado NSA, esse sistemas lançamos aulas, chamadas, trabalhos etc. O problema é que quando um professor novo entra ele se confunde muito ao utilizar o sistema e outros professores muitas vezes não tem disponibilidade para explicar o uso. O software não possui uma interface muito amigável, então a ideia foi criar uma espécie de BOT contendo uma FAQ dos prcedimentos mais comuns relacionados ao sistema e ai receber a dúvida do professor e oferecer uma solução baseada na análise dos textos cadastrados com os procedimentos.
 
 
   "Título": "Fazer chamada no NSA",
